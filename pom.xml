@@ -5,10 +5,7 @@
 	<artifactId>HelloWorld</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HelloWorld Maven Webapp</name>
-	<url>http://maven.apache.org</url>
 	<properties>
-		<java-version>1.7</java-version>
 		<org.springframework-version>4.3.0.RELEASE</org.springframework-version>
 	</properties>
 	<dependencies>
